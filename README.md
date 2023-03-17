@@ -9,5 +9,5 @@ A los archivos ignorados se les hace un seguimiento en un archivo especial llama
 ### Revise los archivos subidos en su repositorio de github. ¿Qué archivos vé?¿Cuál cree que no hace falta que esté?
 Pienso que los archivos que no hacen falta que esten son los ejecutables y esos que se generan cuando compilamos
 ### Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué?
-_ Se debe a que el puntero contiene la direccion de memoria de la variable que intentamos guardar.
-_ En el punto 4 obtenemos la direccion de memoria del puntero, no es igual, porque esa direccion apunta a donde esta el puntero.
+- Se debe a que el puntero contiene la direccion de memoria de la variable que intentamos guardar.
+- En el punto 4 obtenemos la direccion de memoria del puntero, no es igual, porque esa direccion apunta a donde esta el puntero.
